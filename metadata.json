@@ -1,0 +1,6 @@
+{
+  "name": "CyberRunner 3D",
+  "description": "An exhilarating 3D sci-fi flight & runner game showcasing native Android 3D graphics rendering, sound synthesis, haptics, and game loop architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
